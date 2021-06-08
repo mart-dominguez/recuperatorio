@@ -44,9 +44,13 @@ public class Cliente {
 		return null;
 	}
 	
-	public List<Producto> productosMontoMayor(Double monto)
+	public List<Producto> productosMontoMayor(Double monto){
+		return null;
+	}
 	
-	public Double compraPromedio()
+	public Double compraPromedio() {
+		return 0.0;
+	}
 
 	
 }
